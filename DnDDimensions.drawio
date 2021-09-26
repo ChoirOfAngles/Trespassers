@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T04:43:11.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="9yAtjbPavkEBJTmmd4HA" version="15.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T04:44:59.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="2bv2qWnujHkVluYMa7y7" version="15.3.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1239" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-215" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="346.25" y="528.46" width="20" height="11.54" as="geometry" />
-        </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-208" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
-          <mxGeometry x="206" y="319.23" width="24" height="11.54" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-205" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
           <mxGeometry x="550" y="370.77" width="10" height="20" as="geometry" />
@@ -112,10 +109,7 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-128" value="Lost Metropolis" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="130" y="170" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-129" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="155" y="310" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-130" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+        <mxCell id="PadTIyMqERsMDA0XlbBG-130" value="Interplanar Cargo Sorting" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="30" y="380" width="195" height="30.77" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-131" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
@@ -123,9 +117,6 @@
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-132" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="250" y="350.77" width="60" height="29.23" as="geometry" />
-        </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-133" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="430" y="290" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-134" value="Mana Processing&#xa;Facility" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="300" y="170" width="70" height="50" as="geometry" />
@@ -295,11 +286,8 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-206" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
           <mxGeometry x="472" y="399.23" width="48" height="11.54" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-207" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="224" y="301.54" width="66" height="38.46" as="geometry" />
-        </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-209" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
-          <mxGeometry x="290" y="310" width="139" height="10" as="geometry" />
+          <mxGeometry x="200" y="310" width="229" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-210" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="60" height="50" as="geometry" />
@@ -401,13 +389,13 @@
           <mxGeometry x="245" y="75.77" width="43" height="34.23" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-260" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
-          <mxGeometry x="90" y="309.23" width="35" height="10" as="geometry" />
+          <mxGeometry x="90" y="309.23" width="70" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-261" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
-          <mxGeometry x="120" y="330.77" width="35" height="10" as="geometry" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-133" value="Old Transport Hub" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-262" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
-          <mxGeometry x="120" y="309.12" width="10" height="30.88" as="geometry" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-129" value="Old Sorting Facility" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="155" y="290" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
