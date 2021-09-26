@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T22:09:56.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="v41gWYnsc26LYv2bTnS3" version="15.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-26T22:10:02.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="OPgd471Aog2t2J2s-V3P" version="15.3.3" type="github" pages="3">
   <diagram name="Whole Map" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1796" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -435,6 +435,9 @@
         </mxCell>
         <mxCell id="i3sJD5P4p5NzvENN9ZNv-2" value="Temple of the Lost Arts" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="180" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZaSPRnHwDoXS3Sf9tLe-1" value="Apollo-Enber" style="whiteSpace=wrap;align=center;verticalAlign=middle;size=0.23076923076923078;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="600" y="195.77" width="200" height="18.46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
