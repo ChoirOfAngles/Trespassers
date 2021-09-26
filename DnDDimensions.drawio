@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T22:23:17.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="LKYh0_CCFOSU2m8BL6i4" version="15.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-26T22:28:20.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="9RGS4_o2FLJpoh6HLXsi" version="15.3.3" type="github" pages="3">
   <diagram name="Whole Map" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1026" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1239" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
           <mxGeometry x="340" y="430" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-142" value="Cyberware Facility" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="450" y="480" width="90" height="30" as="geometry" />
+          <mxGeometry x="450" y="480" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-143" value="Starship Manufactorum" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="194" y="455" width="110" height="65" as="geometry" />
@@ -427,14 +427,11 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-147" value="Nevure Hideout" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="35" y="250.77" width="60" height="79.23" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-138" value="Logos" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+        <mxCell id="PadTIyMqERsMDA0XlbBG-138" value="AI Training Facility" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="510" y="390" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-275" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
-          <mxGeometry x="520" y="440" width="10" height="38.46" as="geometry" />
-        </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-279" value="Civilized Trade Route:&lt;br&gt;&lt;b&gt;Aechernar -&amp;gt;&lt;/b&gt;&lt;br&gt;Apollo&lt;br&gt;Enber&lt;br&gt;&lt;b&gt;&amp;lt;- Ithcanthar&lt;/b&gt;&lt;br&gt;&lt;br&gt;Glorian Route:&lt;br&gt;&lt;b&gt;Sola -&amp;gt;&lt;/b&gt;&lt;br&gt;Logos&lt;br&gt;Tauri&amp;nbsp;&lt;br&gt;&lt;b&gt;&amp;lt;- Gloria&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="220" width="140" height="160" as="geometry" />
+          <mxGeometry x="540" y="440" width="10" height="38.46" as="geometry" />
         </mxCell>
         <mxCell id="i3sJD5P4p5NzvENN9ZNv-2" value="Temple of the Lost Arts" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="180" y="243.27" width="60" height="60" as="geometry" />
@@ -483,6 +480,9 @@
         </mxCell>
         <mxCell id="K3nOhWXgit-ND3mJMlhe-21" value="Logistical Route" style="whiteSpace=wrap;align=center;verticalAlign=middle;size=0.23076923076923078;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="770" y="456.54" width="110" height="18.46" as="geometry" />
+        </mxCell>
+        <mxCell id="K3nOhWXgit-ND3mJMlhe-23" value="&lt;b&gt;Aechernar&lt;/b&gt;: A large ancient walled city&lt;br&gt;&lt;b&gt;Apollo&lt;/b&gt;: Ancient ruined city&lt;br&gt;&lt;div&gt;&lt;b&gt;Enber&lt;/b&gt;: Large desertic region&lt;br&gt;&lt;b&gt;Ithcanthar&lt;/b&gt;: Caldera with deep forest&lt;br&gt;&lt;b&gt;Sola&lt;/b&gt;: Springs area overgrown with plants&lt;br&gt;&lt;b&gt;Vert&lt;/b&gt;: Mountainous area with several corporations&lt;br&gt;&lt;b&gt;Tauri&lt;/b&gt;: Old space elevator, now broken, many solar fields&lt;br&gt;&lt;b&gt;Gloria&lt;/b&gt;: Large walled city, snowy with ancient powerplant&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="220" width="350" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
