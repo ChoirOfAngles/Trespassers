@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T07:33:37.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="dw8LKIenHvA5ofC2Ivvm" version="15.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-26T22:08:34.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="VwGkLG9VCwo2N10dDn_y" version="15.3.3" type="github" pages="3">
   <diagram name="Whole Map" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1239" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,13 +67,13 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-102" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-103">
           <mxGeometry width="430" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-96" value="Abyss Space" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="PadTIyMqERsMDA0XlbBG-103">
+        <mxCell id="PadTIyMqERsMDA0XlbBG-96" value="Underground Area" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="PadTIyMqERsMDA0XlbBG-103">
           <mxGeometry x="10" y="9.23076923076923" width="130" height="18.46153846153846" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-97" value="Planar Rails" style="whiteSpace=wrap;align=center;verticalAlign=middle;size=0.23076923076923078;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC;strokeColor=default;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-103">
+        <mxCell id="PadTIyMqERsMDA0XlbBG-97" value="Subrail" style="whiteSpace=wrap;align=center;verticalAlign=middle;size=0.23076923076923078;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC;strokeColor=default;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-103">
           <mxGeometry x="290" y="9.23076923076923" width="130" height="18.46153846153846" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-98" value="Real Space" style="verticalAlign=middle;align=center;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="PadTIyMqERsMDA0XlbBG-103">
+        <mxCell id="PadTIyMqERsMDA0XlbBG-98" value="Outdoors Area" style="verticalAlign=middle;align=center;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="PadTIyMqERsMDA0XlbBG-103">
           <mxGeometry x="150" y="9.23076923076923" width="130" height="18.46153846153846" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-104" value="Aechernar Route" style="whiteSpace=wrap;align=center;verticalAlign=middle;size=0.23076923076923078;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC;strokeColor=default;" vertex="1" parent="1">
@@ -307,7 +307,7 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-219" value="To &lt;br&gt;Galactic Gate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-222">
           <mxGeometry x="82.75" y="12.89" width="77.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-278" value="Supermassive Object BZ29&lt;br&gt;(Listening Station)" style="verticalAlign=middle;align=center;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="PadTIyMqERsMDA0XlbBG-222">
+        <mxCell id="PadTIyMqERsMDA0XlbBG-278" value="New Listening Station" style="verticalAlign=middle;align=center;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="PadTIyMqERsMDA0XlbBG-222">
           <mxGeometry x="82.75" y="-7.110000000000014" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-223" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -329,7 +329,7 @@
           <mxGeometry x="830" y="535" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-231" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="950" y="539" width="122.75" height="45.76999999999998" as="geometry" />
+          <mxGeometry x="950" y="539" width="180" height="45.76999999999998" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-232" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-231">
           <mxGeometry y="17.120000000000005" width="43.75" height="11.54" as="geometry" />
@@ -337,8 +337,8 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-233" value="" style="triangle;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#050504;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-231">
           <mxGeometry x="43.75" width="30" height="45.77" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-234" value="To Nimbus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-231">
-          <mxGeometry x="82.75" y="12.889999999999986" width="40" height="20" as="geometry" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-234" value="To Nimbus (Space Elevator)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-231">
+          <mxGeometry x="82.75" y="12.89" width="97.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-235" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
           <mxGeometry x="710" y="585" width="40" height="11.54" as="geometry" />
@@ -415,7 +415,7 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-272" value="To ???" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-269">
           <mxGeometry x="82.75" y="12.889999999999986" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-277" value="Supermassive Object 1A99&lt;br&gt;(Old Listening Station)" style="verticalAlign=middle;align=center;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="PadTIyMqERsMDA0XlbBG-269">
+        <mxCell id="PadTIyMqERsMDA0XlbBG-277" value="Old Listening Station" style="verticalAlign=middle;align=center;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="PadTIyMqERsMDA0XlbBG-269">
           <mxGeometry x="82.75" y="-7.110000000000014" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-228" value="Memory Bank" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
@@ -544,7 +544,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nUZ5RUuIcrDeqlUR_44B" name="Aechernar Route">
-    <mxGraphModel dx="1796" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2993" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="waNDfHQ3aROpxRsj7nIl-0" />
         <mxCell id="waNDfHQ3aROpxRsj7nIl-1" parent="waNDfHQ3aROpxRsj7nIl-0" />
