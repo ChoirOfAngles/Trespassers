@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T04:45:54.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="mQ349FfuIef3S8PXGFBw" version="15.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T04:47:54.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="I_2Tb-gebgoHyAhG_Qi3" version="15.3.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1239" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-267" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
+          <mxGeometry x="90" y="579.23" width="10" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-156" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
           <mxGeometry x="340" y="155.67000000000002" width="10" height="15.77" as="geometry" />
         </mxCell>
@@ -112,8 +115,8 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-130" value="Interplanar Cargo Sorting" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="30" y="380" width="195" height="30.77" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-131" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="40" y="430" width="70" height="70" as="geometry" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-131" value="Imperial Industrial Complex" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-132" value="Interplanar HQ" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="70" height="40" as="geometry" />
@@ -144,12 +147,6 @@
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-143" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="194" y="440" width="110" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-144" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="224" y="620" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-145" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="295" y="580" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-146" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="660" y="570" width="50" height="50" as="geometry" />
@@ -272,10 +269,10 @@
           <mxGeometry x="610" y="198.46" width="180" height="11.54" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-201" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
-          <mxGeometry x="20" y="634.23" width="204" height="11.54" as="geometry" />
+          <mxGeometry x="20" y="645.77" width="204" height="11.54" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-202" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
-          <mxGeometry x="20" y="460" width="10" height="172.69" as="geometry" />
+          <mxGeometry x="20" y="460" width="10" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-203" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
           <mxGeometry x="20" y="459.23" width="20" height="11.54" as="geometry" />
@@ -396,6 +393,30 @@
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-140" value="Chip Facility" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="442" y="390" width="58" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-266" value="Imperial Training Grounds" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="50" y="596.54" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-268" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
+          <mxGeometry x="160" y="611.54" width="70" height="11.54" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-144" value="Imperial High Command" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="190" y="600" width="84" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-145" value="Shattered Test Site" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="295" y="580" width="65" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-269" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="915" y="138.00000000000003" width="122.75" height="45.76999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-270" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-269">
+          <mxGeometry y="17.120000000000005" width="43.75" height="11.54" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-271" value="" style="triangle;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#050504;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-269">
+          <mxGeometry x="43.75" width="30" height="45.77" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-272" value="To ???" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-269">
+          <mxGeometry x="82.75" y="12.889999999999986" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
