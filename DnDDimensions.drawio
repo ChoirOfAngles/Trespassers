@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-26T04:47:54.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="I_2Tb-gebgoHyAhG_Qi3" version="15.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-26T04:51:36.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="1eKvYXkuOEd8jIVRAndJ" version="15.3.3" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1239" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -133,26 +133,20 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-137" value="Arcan" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="304" y="80" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-138" value="Logos" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-139" value="Logitree Nursery" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="610" y="420" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-141" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="350" y="430" width="70" height="50" as="geometry" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-141" value="Pheonix Engineering" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-142" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="450" y="480" width="50" height="30" as="geometry" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-142" value="Cyberware Facility" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="450" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-143" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="194" y="440" width="110" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-146" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="660" y="570" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-147" value="Nevure" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="40" y="250.77" width="50" height="79.23" as="geometry" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-146" value="AI Guardians" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="640" y="570" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-155" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
           <mxGeometry x="560" y="140" width="20" height="10" as="geometry" />
@@ -299,7 +293,7 @@
           <mxGeometry x="332.5" y="490" width="47.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-222" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="346.25" y="641.34" width="122.75" height="45.76999999999998" as="geometry" />
+          <mxGeometry x="346.25" y="641.34" width="160" height="45.76999999999998" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-217" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-222">
           <mxGeometry y="17.120000000000005" width="43.75" height="11.54" as="geometry" />
@@ -307,11 +301,11 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-218" value="" style="triangle;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#050504;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-222">
           <mxGeometry x="43.75" width="30" height="45.77" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-219" value="To Galactic Gate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-222">
-          <mxGeometry x="82.75" y="12.889999999999986" width="40" height="20" as="geometry" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-219" value="To &lt;br&gt;Galactic Gate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-222">
+          <mxGeometry x="82.75" y="12.89" width="77.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-223" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="650" y="121.35000000000002" width="122.75" height="45.76999999999998" as="geometry" />
+          <mxGeometry x="650" y="121.35000000000002" width="180" height="45.76999999999998" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-224" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-223">
           <mxGeometry y="17.120000000000005" width="43.75" height="11.54" as="geometry" />
@@ -319,16 +313,13 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-225" value="" style="triangle;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#050504;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-223">
           <mxGeometry x="43.75" width="30" height="45.77" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-226" value="To Sirius" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-223">
-          <mxGeometry x="82.75" y="12.889999999999986" width="40" height="20" as="geometry" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-226" value="To Sirius&lt;br&gt;(Gate defunct)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-223">
+          <mxGeometry x="82.75" y="12.89" width="97.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-228" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="750" y="510" width="50" height="100" as="geometry" />
+        <mxCell id="PadTIyMqERsMDA0XlbBG-229" value="Old AI Graveyard" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="790" y="397.88" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-229" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="790" y="397.88" width="110" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-230" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+        <mxCell id="PadTIyMqERsMDA0XlbBG-230" value="Chronoplague Infested" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="830" y="535" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-231" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -388,11 +379,11 @@
         <mxCell id="PadTIyMqERsMDA0XlbBG-133" value="Old Transport Hub" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="420" y="280" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PadTIyMqERsMDA0XlbBG-129" value="Old Sorting Facility" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+        <mxCell id="PadTIyMqERsMDA0XlbBG-129" value="Old Freight&#xa;Facility" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="155" y="290" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-140" value="Chip Facility" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="442" y="390" width="58" height="60" as="geometry" />
+          <mxGeometry x="438" y="390" width="58" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-266" value="Imperial Training Grounds" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="50" y="596.54" width="110" height="40" as="geometry" />
@@ -417,6 +408,18 @@
         </mxCell>
         <mxCell id="PadTIyMqERsMDA0XlbBG-272" value="To ???" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="PadTIyMqERsMDA0XlbBG-269">
           <mxGeometry x="82.75" y="12.889999999999986" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-228" value="Memory Bank" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="740" y="510" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-147" value="Nevure Hideout" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="35" y="250.77" width="60" height="79.23" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-138" value="Logos" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PadTIyMqERsMDA0XlbBG-275" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="10" height="38.46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
