@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T05:45:28.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="8u_5CAsSH7kNdGbGqAH3" version="15.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-28T06:37:29.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="_qlnrPFUSG60GOcBB5Y5" version="15.3.3" type="github" pages="3">
   <diagram name="Whole Map" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1796" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2113" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -482,7 +482,7 @@
           <mxGeometry x="770" y="456.54" width="110" height="18.46" as="geometry" />
         </mxCell>
         <mxCell id="K3nOhWXgit-ND3mJMlhe-23" value="&lt;b&gt;Aechernar&lt;/b&gt;: A large ancient walled city&lt;div&gt;Kathor Shrine: Located in an underground network of mines and huge drill shafts.&lt;/div&gt;&lt;div&gt;Mana Processing: Orderly but dilapidated hallways.&lt;/div&gt;&lt;div&gt;Wizard&#39;s Den: Located in an old mine shaft, mildly refurbished with libraries and studies.&lt;/div&gt;&lt;div&gt;Arcan: An underground tower with many floors.&lt;/div&gt;&lt;div&gt;Roboto: An underground chasm with settlements hanging from the sides.&lt;/div&gt;&lt;div&gt;Deep Chasm: The chasm here goes deep into the earth and is uncomfortably hot. Dangerous species live here.&lt;/div&gt;&lt;b&gt;Lost Metropolis&lt;/b&gt;: Vaulted ceilings like a cathedral. Very cold.&lt;br&gt;Nevure Hideout: Underground warehouse-like.&lt;br&gt;Old Freight: Industrial complex with many scaffolds, overhangs, and cranes.&lt;br&gt;&lt;b&gt;Apollo&lt;/b&gt;: Ancient ruined city&lt;br&gt;&lt;div&gt;&lt;b&gt;Enber&lt;/b&gt;: Large desertic region&lt;/div&gt;&lt;div&gt;&lt;b&gt;Ithcanthar&lt;/b&gt;: Caldera with deep forest&lt;/div&gt;&lt;div&gt;Temple: Stonework with mystic glowing signs&lt;/div&gt;&lt;div&gt;&lt;b&gt;Sola&lt;/b&gt;: Springs area overgrown with plants&lt;br&gt;&lt;div&gt;Old Transport Hub: Maze-like with long hallways for trams.&lt;/div&gt;&lt;div&gt;Weeping Gardens: Overgrown gardens for making food&lt;/div&gt;&lt;b&gt;Vert&lt;/b&gt;: Mountainous area with several corporations&lt;br&gt;&lt;b&gt;Tauri&lt;/b&gt;: Old space elevator, now broken, many solar fields&lt;br&gt;&lt;b&gt;Gloria&lt;/b&gt;: Large walled city, snowy with ancient powerplant&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="250" width="350" height="290" as="geometry" />
+          <mxGeometry x="1230" y="250.77" width="350" height="290" as="geometry" />
         </mxCell>
         <mxCell id="K3nOhWXgit-ND3mJMlhe-24" value="&lt;br&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="670" width="350" height="290" as="geometry" />
@@ -494,10 +494,10 @@
           <mxGeometry x="210" y="740" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K3nOhWXgit-ND3mJMlhe-30" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;Old Gate: &lt;/b&gt;An adorned gate with images and tapestries carved into the walls&lt;br&gt;&lt;b&gt;Old Listening Station&lt;/b&gt;: An ancient terrace in a valley with large hanging cables and an arecibo style scope&lt;br&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="919" y="40" width="320" height="30" as="geometry" />
+          <mxGeometry x="1200" y="47" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K3nOhWXgit-ND3mJMlhe-31" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;b&gt;Robotic Sanctuary: &lt;/b&gt;A temple of the aeons, now ruined and desecrated&lt;br&gt;&lt;/font&gt;Memory Banks: Server-like structures embedded into rock, many of them, robbed, some still glowing&lt;br&gt;Old AI Graveyard: An ancient server facility shaped like a sphere and toroid intersecting. Strange humming surrounds the place, and dead mechanical bodies litter the place. First signs of nanoplague.&lt;br&gt;&lt;b&gt;Nanoplague: &lt;/b&gt;A deadly plague that affects robots. Pools of liquid mercury-like stuff.&lt;br&gt;&lt;b&gt;Nimbus&lt;/b&gt;: Space elevator to the endgame orbital complex, route to the Distress Signal." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="645.77" width="320" height="30" as="geometry" />
+          <mxGeometry x="1210" y="694.23" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -606,88 +606,16 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="nUZ5RUuIcrDeqlUR_44B" name="Aechernar Route">
-    <mxGraphModel dx="2993" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="nUZ5RUuIcrDeqlUR_44B" name="Roboto">
+    <mxGraphModel dx="-674" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="waNDfHQ3aROpxRsj7nIl-0" />
         <mxCell id="waNDfHQ3aROpxRsj7nIl-1" parent="waNDfHQ3aROpxRsj7nIl-0" />
-        <mxCell id="LIXbax-wDKc2cCBylSyA-0" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="270" y="340" width="10" height="15.77" as="geometry" />
-        </mxCell>
-        <mxCell id="LIXbax-wDKc2cCBylSyA-1" value="Loading Tunnel" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="210" y="290" width="370" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-0" value="Aechernar&lt;br&gt;Gate" style="verticalAlign=middle;align=center;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="140" y="285" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-4" value="Secondary Hall" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="260" y="355.77" width="220" height="44.23" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-5" value="Cargo Sorting" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="580" y="245" width="150" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-6" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="600" y="385" width="10" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-7" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="700" y="385" width="10" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-8" value="Cart Tunnel" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="580" y="180" width="520" height="44.23" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-9" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="620" y="224.23" width="70" height="19.77" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-10" value="Passenger Route" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="730" y="300" width="370" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-11" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=90;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="1105" y="307.12" width="10" height="15.77" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-12" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=90;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="1105" y="194.23000000000002" width="10" height="15.77" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-13" value="Aechernar Station" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="1115" y="120" width="325" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-14" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="450" y="400" width="10" height="15.77" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-15" value="Waiting Area" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="425" y="415.77" width="335" height="124.23" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-16" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="450" y="340" width="10" height="15.77" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-17" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=90;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="567" y="194" width="10" height="15.77" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-18" value="Machinery Storage" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="403" y="110" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-20" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="520" y="230" width="10" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-21" value="" style="triangle;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#050504;rotation=0;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="1490" y="565" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-22" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="1272.5" y="530" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-23" value="Offices" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="790" y="355.77" width="185" height="184.23" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-24" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=90;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="771.5" y="425.5" width="10" height="26.77" as="geometry" />
-        </mxCell>
-        <mxCell id="3j26b7iWed0MVHo5nZgh-25" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=90;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="1040.5" y="370.5" width="10" height="136.77" as="geometry" />
+        <mxCell id="K4Dc0vIMmqGl_Ba5UGUG-1" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=0;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
+          <mxGeometry x="2095" y="409.99999999999994" width="10" height="93.38" as="geometry" />
         </mxCell>
         <mxCell id="2xIR6JLMBeWhQwlIz4zp-2" value="" style="triangle;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#050504;rotation=-180;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
           <mxGeometry x="1740" y="565.01" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2xIR6JLMBeWhQwlIz4zp-3" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=90;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
-          <mxGeometry x="1381.69" y="498.3" width="10" height="213.39" as="geometry" />
         </mxCell>
         <mxCell id="2xIR6JLMBeWhQwlIz4zp-4" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=90;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
           <mxGeometry x="1838.3" y="558.31" width="10" height="93.38" as="geometry" />
@@ -700,6 +628,18 @@
         </mxCell>
         <mxCell id="2xIR6JLMBeWhQwlIz4zp-1" value="Roboto Station" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
           <mxGeometry x="1880" y="471.37" width="440" height="267.27" as="geometry" />
+        </mxCell>
+        <mxCell id="K4Dc0vIMmqGl_Ba5UGUG-0" value="Roboto Concourse" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
+          <mxGeometry x="1980" y="210" width="240" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="0gqmw2gKKdBbcd8iYy3Z-0" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=0;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
+          <mxGeometry x="2170" y="170" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0gqmw2gKKdBbcd8iYy3Z-1" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=90;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
+          <mxGeometry x="2247.54" y="345.85" width="10" height="61.69" as="geometry" />
+        </mxCell>
+        <mxCell id="0gqmw2gKKdBbcd8iYy3Z-2" value="" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#050504;rotation=90;" vertex="1" parent="waNDfHQ3aROpxRsj7nIl-1">
+          <mxGeometry x="1963.1" y="250.1" width="10" height="21.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
